@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100%;
+    width: auto;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pimg1 {
+    background-image: url("image1.png");
+    background-repeat: no-repeat;
+    min-height: 600px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.box1 {
+    height: 48px;
+    width: 290px;
+    background-color: black;
+    color: white;
+    margin-left: 477px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text1 {
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+
+}
+
+.pimg2 {
+    background-image: url("image2.png");
+    background-repeat: no-repeat;
+    min-height: 600px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.section1 {
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text2 {
+    position: relative;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: medium;
+}
+
+.section1,
+h2 {
+    margin-bottom: 14px;
+
+}
+
+.img {
+    background-attachment: fixed;
+}
+
+.section2 {
+    height: 250px;
+    width: 100%;
+    background-color:white;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    height: 48px;
+    width: 290px;
+    background-color: black;
+    color: white;
+    margin-left: -66px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pimg3 {
+    background-image: url("image3.jpg");
+    background-repeat: no-repeat;
+    min-height: 600px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-attachment: fixed; */
+
+}
+
+.section3 {
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3 {
+    height: 48px;
+    width: 290px;
+    background-color: black;
+    color: white;
+    margin-left: -66px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
